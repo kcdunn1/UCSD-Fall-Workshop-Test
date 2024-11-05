@@ -235,11 +235,6 @@ special instructions.
   We are committed to making this workshop
   accessible to everybody. 
 {% if online == "false" %}
-  The workshop organizers have checked that:
-<p>
-  <ul>
-    <li>The room is wheelchair / scooter accessible.</li>
-    <li>Accessible restrooms are available.</li>
   </ul>
 {% endif %}
 </p>
